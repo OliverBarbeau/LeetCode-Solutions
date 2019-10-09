@@ -1,2 +1,4 @@
 # LeetCode-Solutions
-Solutions to LeetCode Problems, written in Python
+Solutions to LeetCode Problems, written mostly in Python.
+
+
