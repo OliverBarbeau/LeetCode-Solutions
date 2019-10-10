@@ -1,3 +1,5 @@
+# Problem #973
+# https://leetcode.com/problems/k-closest-points-to-origin
 # We have a list of points on the plane.  Find the K closest points to the origin (0, 0).
 
 # (Here, the distance between two points on a plane is the Euclidean distance.)

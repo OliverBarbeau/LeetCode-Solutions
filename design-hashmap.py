@@ -1,3 +1,5 @@
+# Problem #706
+# https://leetcode.com/problems/design-hashmap
 # Design a HashMap without using any built-in hash table libraries.
 
 # To be specific, your design should include these functions:

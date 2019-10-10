@@ -1,3 +1,5 @@
+# Problem #705
+# https://leetcode.com/problems/design-hashset
 # Design a HashSet without using any built-in hash table libraries.
 
 # To be specific, your design should include these functions:
