@@ -7,10 +7,10 @@ Files have problem number and link to LeetCode page, followed by its problem des
 
 44 Easy
 
-42 Medium
+46 Medium
 
 2 Hard
 
-10/10/2019
+10/12/2019
 
 
