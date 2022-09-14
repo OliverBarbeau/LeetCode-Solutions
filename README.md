@@ -1,5 +1,5 @@
 # LeetCode-Solutions
-Solutions to LeetCode Problems.
+My solutions to LeetCode Problems.
 
 Most solved in Python, a handful in Java.
 Files have problem number and link to LeetCode page, followed by its problem description.
